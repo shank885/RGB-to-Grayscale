@@ -1,0 +1,4 @@
+model_checkpoint_path: "ColorToGray.ckpt-49"
+all_model_checkpoint_paths: "ColorToGray.ckpt-47"
+all_model_checkpoint_paths: "ColorToGray.ckpt-48"
+all_model_checkpoint_paths: "ColorToGray.ckpt-49"
