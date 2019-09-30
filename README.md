@@ -25,13 +25,20 @@ An autoencoder is a deep neural network which tries to copy its input to output.
 
 ## Results
 
+### Original RGB Image
 
+<p align="center"><img width="40%" src="/data/input_images/rose.jpg" /></p>
+
+### Encoded Grayscale Image
+
+<p align="center"><img width="40%" src="/data/output_images/rose.jpg" /></p>
 
 
 ----------------------------------------------------------------------------------------------------
 
 ## References
  
+- [**Undercomplete Autoencoder**](https://en.wikipedia.org/wiki/Autoencoder)
+- [**Mean Squarred Error**](https://en.wikipedia.org/wiki/Mean_squared_error)
 
-
-
+----------------------------------------------------------------------------------------------------
