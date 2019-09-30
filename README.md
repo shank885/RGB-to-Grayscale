@@ -27,11 +27,11 @@ An autoencoder is a deep neural network which tries to copy its input to output.
 
 ### Original RGB Image
 
-<p align="center"><img width="40%" src="data/input_images/rose.jpg" /></p>
+<p align="left"><img width="30%" src="data/input_images/rose.jpg" /></p>
 
 ### Encoded Grayscale Image
 
-<p align="center"><img width="40%" src="data/output_images/rose.jpg" /></p>
+<p align="left"><img width="30%" src="data/output_images/rose.jpg" /></p>
 
 
 ----------------------------------------------------------------------------------------------------
